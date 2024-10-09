@@ -22,7 +22,7 @@ int main()
     cout << "   1.Square Matrix." << endl;
     cout << "   2.Diagonal Matrix." << endl;
     cout << "   3.Scaler Matrix." << endl;
-    cout << "   4.Identity Matrix." << endl;
+    // cout << "   4.Identity Matrix." << endl;
     cout << "   0.Exit" << endl;
 
     int condition;
